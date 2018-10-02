@@ -1,0 +1,9 @@
+C:\Users\student.VYATSU\Desktop\Лр1\lampa\lampa\bin\Debug\lampa.exe.config
+C:\Users\student.VYATSU\Desktop\Лр1\lampa\lampa\bin\Debug\lampa.exe
+C:\Users\student.VYATSU\Desktop\Лр1\lampa\lampa\bin\Debug\lampa.pdb
+C:\Users\student.VYATSU\Desktop\Лр1\lampa\lampa\obj\Debug\lampa.csprojResolveAssemblyReference.cache
+C:\Users\student.VYATSU\Desktop\Лр1\lampa\lampa\obj\Debug\lampa.Form1.resources
+C:\Users\student.VYATSU\Desktop\Лр1\lampa\lampa\obj\Debug\lampa.Properties.Resources.resources
+C:\Users\student.VYATSU\Desktop\Лр1\lampa\lampa\obj\Debug\lampa.csproj.GenerateResource.Cache
+C:\Users\student.VYATSU\Desktop\Лр1\lampa\lampa\obj\Debug\lampa.exe
+C:\Users\student.VYATSU\Desktop\Лр1\lampa\lampa\obj\Debug\lampa.pdb
